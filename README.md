@@ -1,0 +1,1 @@
+# tinymce_equation_editor
